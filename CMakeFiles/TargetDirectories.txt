@@ -1,3 +1,0 @@
-/Users/robertgarabetian/Dev/c++/raytracing/CMakeFiles/raytracing.dir
-/Users/robertgarabetian/Dev/c++/raytracing/CMakeFiles/edit_cache.dir
-/Users/robertgarabetian/Dev/c++/raytracing/CMakeFiles/rebuild_cache.dir
