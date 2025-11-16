@@ -1,1 +1,1 @@
-# raytracing
+# Simple Ray Tracing Engine
