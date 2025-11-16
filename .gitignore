@@ -1,6 +1,29 @@
+# ---- Build folders ----
+build/
 cmake-build-debug/
-
+cmake-build-release/
 CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
 
+# ---- Executables / binaries ----
+raytracing
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
 
+# CLion / JetBrains
+.idea/
 
+# macOS
+.DS_Store
+
+# ---- Generated files ----
+*.ppm
+*.png
+*.jpg
+*.log
